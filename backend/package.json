@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.95.5",
+    "mysql2": "^2.2.5"
+  }
+}

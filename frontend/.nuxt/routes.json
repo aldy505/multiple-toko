@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/reinaldyrfl/repository/pesanyuk/multiple-toko/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_9d7add7e"
+  },
+  {
+    "name": "id",
+    "path": "/:id",
+    "component": "/home/reinaldyrfl/repository/pesanyuk/multiple-toko/frontend/pages/_id/index.vue",
+    "chunkName": "pages/_id/index",
+    "_name": "_9401b8a8"
+  }
+]
